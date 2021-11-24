@@ -1,0 +1,70 @@
+*{
+    padding: 0px ;
+    margin: 0px;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+
+}
+button{
+
+    padding: 10px;
+    border-radius: 10px;
+    background-color: transparent;
+    
+}
+button:hover{
+    background-color: rgb(54, 50, 50);
+    color: white;
+}
+.btn{
+
+    padding: 10px;
+    text-align: center;
+}
+.main{
+    padding: 10px;
+    border:  1px solid black;
+}
+.secnd-main{
+
+    text-align: center;
+    padding: 20px;
+    border: 1px solid black;
+}
+.secnd-main button{
+    margin: 20px;
+}
+
+.catimg{
+    display: none;
+}
+
+.blub{
+    border:  1px solid black;
+    text-align: center;
+    padding: 5px;
+}
+
+.paras{
+
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+
+}
+.paras p{
+
+    padding: 10px;
+}
+#paras{
+
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    
+}
+#paras p{
+    padding: 10px;
+}
